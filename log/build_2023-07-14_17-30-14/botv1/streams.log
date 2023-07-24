@@ -1,0 +1,54 @@
+[0.012s] Invoking command in '/home/alpha/dev_ws/build/botv1': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake /home/alpha/dev_ws/src/botv1 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/alpha/dev_ws/install/botv1
+[0.084s] -- The C compiler identification is GNU 9.4.0
+[0.137s] -- The CXX compiler identification is GNU 9.4.0
+[0.141s] -- Check for working C compiler: /usr/bin/cc
+[0.210s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.212s] -- Detecting C compiler ABI info
+[0.278s] -- Detecting C compiler ABI info - done
+[0.286s] -- Detecting C compile features
+[0.286s] -- Detecting C compile features - done
+[0.288s] -- Check for working CXX compiler: /usr/bin/c++
+[0.368s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.370s] -- Detecting CXX compiler ABI info
+[0.455s] -- Detecting CXX compiler ABI info - done
+[0.463s] -- Detecting CXX compile features
+[0.463s] -- Detecting CXX compile features - done
+[0.465s] -- Found ament_cmake: 1.1.6 (/opt/ros/galactic/share/ament_cmake/cmake)
+[0.488s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.488s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.531s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.552s] -- Found ament_lint_auto: 0.10.7 (/opt/ros/galactic/share/ament_lint_auto/cmake)
+[0.610s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.615s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.616s] -- Added test 'lint_cmake' to check CMake code style
+[0.617s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[0.619s] -- Added test 'xmllint' to check XML markup files
+[0.621s] -- Configuring done
+[0.622s] -- Generating done
+[0.622s] -- Build files have been written to: /home/alpha/dev_ws/build/botv1
+[0.625s] Invoked command in '/home/alpha/dev_ws/build/botv1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake /home/alpha/dev_ws/src/botv1 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/alpha/dev_ws/install/botv1
+[0.628s] Invoking command in '/home/alpha/dev_ws/build/botv1': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --build /home/alpha/dev_ws/build/botv1 -- -j12 -l12
+[0.666s] Invoked command in '/home/alpha/dev_ws/build/botv1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --build /home/alpha/dev_ws/build/botv1 -- -j12 -l12
+[0.701s] Invoking command in '/home/alpha/dev_ws/build/botv1': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --install /home/alpha/dev_ws/build/botv1
+[0.705s] -- Install configuration: ""
+[0.706s] -- Execute custom install script
+[0.706s] -- Symlinking: /home/alpha/dev_ws/install/botv1/share/botv1/config/empty.yaml
+[0.717s] -- Symlinking: /home/alpha/dev_ws/install/botv1/share/botv1/description/robot.urdf.xacro
+[0.722s] -- Symlinking: /home/alpha/dev_ws/install/botv1/share/botv1/launch/rsp.launch.py
+[0.728s] -- Symlinking: /home/alpha/dev_ws/install/botv1/share/botv1/worlds/empty.world
+[0.734s] -- Symlinking: /home/alpha/dev_ws/install/botv1/share/ament_index/resource_index/package_run_dependencies/botv1
+[0.740s] -- Symlinking: /home/alpha/dev_ws/install/botv1/share/ament_index/resource_index/parent_prefix_path/botv1
+[0.746s] -- Symlinking: /home/alpha/dev_ws/install/botv1/share/botv1/environment/ament_prefix_path.sh
+[0.752s] -- Symlinking: /home/alpha/dev_ws/install/botv1/share/botv1/environment/ament_prefix_path.dsv
+[0.758s] -- Symlinking: /home/alpha/dev_ws/install/botv1/share/botv1/environment/path.sh
+[0.763s] -- Symlinking: /home/alpha/dev_ws/install/botv1/share/botv1/environment/path.dsv
+[0.769s] -- Symlinking: /home/alpha/dev_ws/install/botv1/share/botv1/local_setup.bash
+[0.774s] -- Symlinking: /home/alpha/dev_ws/install/botv1/share/botv1/local_setup.sh
+[0.782s] -- Symlinking: /home/alpha/dev_ws/install/botv1/share/botv1/local_setup.zsh
+[0.787s] -- Symlinking: /home/alpha/dev_ws/install/botv1/share/botv1/local_setup.dsv
+[0.793s] -- Symlinking: /home/alpha/dev_ws/install/botv1/share/botv1/package.dsv
+[0.799s] -- Symlinking: /home/alpha/dev_ws/install/botv1/share/ament_index/resource_index/packages/botv1
+[0.805s] -- Symlinking: /home/alpha/dev_ws/install/botv1/share/botv1/cmake/botv1Config.cmake
+[0.812s] -- Symlinking: /home/alpha/dev_ws/install/botv1/share/botv1/cmake/botv1Config-version.cmake
+[0.818s] -- Symlinking: /home/alpha/dev_ws/install/botv1/share/botv1/package.xml
+[0.829s] Invoked command in '/home/alpha/dev_ws/build/botv1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --install /home/alpha/dev_ws/build/botv1

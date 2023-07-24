@@ -1,0 +1,8 @@
+source;share/ROS_SLAM_BEGIN/hook/cmake_prefix_path.ps1
+source;share/ROS_SLAM_BEGIN/hook/cmake_prefix_path.dsv
+source;share/ROS_SLAM_BEGIN/hook/cmake_prefix_path.sh
+source;share/ROS_SLAM_BEGIN/local_setup.bash
+source;share/ROS_SLAM_BEGIN/local_setup.dsv
+source;share/ROS_SLAM_BEGIN/local_setup.ps1
+source;share/ROS_SLAM_BEGIN/local_setup.sh
+source;share/ROS_SLAM_BEGIN/local_setup.zsh

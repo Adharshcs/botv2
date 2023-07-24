@@ -1,0 +1,4 @@
+source;share/ROS_SLAM_BEGIN/local_setup.bash
+source;share/ROS_SLAM_BEGIN/local_setup.dsv
+source;share/ROS_SLAM_BEGIN/local_setup.sh
+source;share/ROS_SLAM_BEGIN/local_setup.zsh

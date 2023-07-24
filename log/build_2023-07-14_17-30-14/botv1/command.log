@@ -1,0 +1,6 @@
+Invoking command in '/home/alpha/dev_ws/build/botv1': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake /home/alpha/dev_ws/src/botv1 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/alpha/dev_ws/install/botv1
+Invoked command in '/home/alpha/dev_ws/build/botv1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake /home/alpha/dev_ws/src/botv1 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/alpha/dev_ws/install/botv1
+Invoking command in '/home/alpha/dev_ws/build/botv1': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --build /home/alpha/dev_ws/build/botv1 -- -j12 -l12
+Invoked command in '/home/alpha/dev_ws/build/botv1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --build /home/alpha/dev_ws/build/botv1 -- -j12 -l12
+Invoking command in '/home/alpha/dev_ws/build/botv1': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --install /home/alpha/dev_ws/build/botv1
+Invoked command in '/home/alpha/dev_ws/build/botv1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --install /home/alpha/dev_ws/build/botv1

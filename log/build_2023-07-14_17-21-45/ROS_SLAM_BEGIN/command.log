@@ -1,0 +1,6 @@
+Invoking command in '/home/alpha/dev_ws/build/ROS_SLAM_BEGIN': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake /home/alpha/dev_ws/src/ROS_SLAM_BEGIN -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/alpha/dev_ws/install/ROS_SLAM_BEGIN
+Invoked command in '/home/alpha/dev_ws/build/ROS_SLAM_BEGIN' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake /home/alpha/dev_ws/src/ROS_SLAM_BEGIN -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/alpha/dev_ws/install/ROS_SLAM_BEGIN
+Invoking command in '/home/alpha/dev_ws/build/ROS_SLAM_BEGIN': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --build /home/alpha/dev_ws/build/ROS_SLAM_BEGIN -- -j12 -l12
+Invoked command in '/home/alpha/dev_ws/build/ROS_SLAM_BEGIN' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --build /home/alpha/dev_ws/build/ROS_SLAM_BEGIN -- -j12 -l12
+Invoking command in '/home/alpha/dev_ws/build/ROS_SLAM_BEGIN': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --install /home/alpha/dev_ws/build/ROS_SLAM_BEGIN
+Invoked command in '/home/alpha/dev_ws/build/ROS_SLAM_BEGIN' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --install /home/alpha/dev_ws/build/ROS_SLAM_BEGIN

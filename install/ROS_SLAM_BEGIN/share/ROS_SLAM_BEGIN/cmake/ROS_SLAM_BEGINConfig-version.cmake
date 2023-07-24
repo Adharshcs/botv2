@@ -1,0 +1,1 @@
+/home/alpha/dev_ws/build/ROS_SLAM_BEGIN/ament_cmake_core/ROS_SLAM_BEGINConfig-version.cmake
